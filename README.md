@@ -1,4 +1,4 @@
-# Rotary Encoder Measurement System
+# Rotary Encoder Ruller System
 
 A digital measurement system for cutting tables that uses a rotary encoder to track material movement with real-time display on a touchscreen interface.
 
@@ -190,6 +190,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📬 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Mert Güzelmansur
 
-Project Link: [https://github.com/yourusername/rotary-encoder-measurement-system](https://github.com/yourusername/rotary-encoder-measurement-system)
+Project Link: [https://github.com/mertguzelmansur/Cutting-Machine-Ruller-Display](https://github.com/mertguzelmansur/Cutting-Machine-Ruller-Display)
